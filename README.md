@@ -19,21 +19,21 @@ As questões estão organizadas em várias categorias, incluindo:
 
 5. **Loops (While + For):** Problemas que exploram tanto o `while` quanto o `for` para realizar tarefas repetitivas.
 
-6. **Funções:** Questões que envolvem a criação, chamada e retorno de funções.
+6. **Funções:** Questões que envolvem a criação, chamada e retorno de `funções`.
 
-7. **Listas:** Exercícios relacionados à manipulação de listas (arrays) unidimensionais.
+7. **Listas:** Exercícios relacionados à manipulação de `listas` (arrays) unidimensionais.
 
 8. **Strings:** Problemas que requerem manipulação de strings, como concatenação, substituição e pesquisa.
 
-9. **Matrizes:** Questões que envolvem matrizes (arrays multidimensionais) e suas operações.
+9. **Matrizes:** Questões que envolvem `matrizes` (arrays multidimensionais) e suas operações.
 
-10. **Recursividade:** Desafios que exigem a implementação de funções recursivas.
+10. **Recursividade:** Desafios que exigem a implementação de funções `recursivas`.
 
-Além disso, no final deste conjunto de questões, você encontrará um projeto prático envolvendo a criação de um chat bot para o Discord. Neste projeto, fomos desafiados a desenvolver um sistema de autenticação de usuário para permitir o acesso a um servidor no Discord.
+Além disso, no final deste conjunto de questões, você encontrará um projeto prático envolvendo a criação de um **chat bot para o Discord.** Neste projeto, fomos desafiados a desenvolver um sistema de autenticação de usuário para permitir o acesso a um servidor no Discord.
 
 ## Como Usar
 
-Você pode explorar as questões navegando pelos diretórios correspondentes aos tópicos listados acima. Cada diretório contém um conjunto de questões relacionadas ao tópico específico, juntamente com exemplos de soluções na linguagem de programação `Python` (Muito em breve teremos a resolução das questões em Java).
+Você pode explorar as questões navegando pelos diretórios correspondentes aos tópicos listados acima. Cada diretório contém um conjunto de questões relacionadas ao tópico específico, juntamente com exemplos de soluções na linguagem de programação `Python` (Muito em breve teremos a resolução das questões em `Java`).
 
 Sinta-se à vontade para usar essas questões como uma ferramenta de aprendizado, para praticar suas habilidades de programação ou como base para projetos pessoais.
 
